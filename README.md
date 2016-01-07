@@ -1,2 +1,2 @@
-# username.github.io
+# bluemazzoo.github.io
 GitHub Pages Blog
